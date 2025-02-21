@@ -54,6 +54,3 @@ Thus, **engaging Domes** in Brisbane reduces total monthly costs by nearly **2.8
 
 ---
 
-<a href="https://colab.research.google.com/github/wweissbluth/CMOR-461-LOGISTICS-AND-SUPPLY-CHAIN-MANAGEMENT/blob/main/hw4.ipynb" target="_blank">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Google Colab" width="200">
-</a>
