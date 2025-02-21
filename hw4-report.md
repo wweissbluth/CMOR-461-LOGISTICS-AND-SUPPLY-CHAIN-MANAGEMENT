@@ -1,3 +1,5 @@
+Project Members: Warren Weissbluth, Michael Khalfin
+
 # Cost-Benefit Analysis of Engaging Domes (Monthly Basis)
 
 ---
